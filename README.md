@@ -10,3 +10,12 @@ Habilidades/Skills:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gus955&layout=donut)](https://github.com/gus955/github-readme-stats)
 
+
+Tecnologias:
+
+<div>
+    <img align="center" alt="html5"
+     src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+    <img align="center" alt="css3"
+     src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
+</div>
