@@ -30,6 +30,7 @@ Tecnologias:
      src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </div>
 
+
  Resumo:
 
  Entusiasta tecnológico, tive contato com tecnologia desde a infância mas não tinha ambição de seguir profissionalmente. Após o surto pandêmico de 2020, o cenário mudou e me reinventei profissionalmente.
