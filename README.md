@@ -8,6 +8,6 @@ Redes Sociais:
 
 Habilidades/Skills:
 
-![Gus' GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Gus' GitHub stats](https://github-readme-stats.vercel.app/api?username=gus955&show_icons=true&theme=radical)
 
 
