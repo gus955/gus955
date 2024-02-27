@@ -8,6 +8,5 @@ Redes Sociais:
 
 Habilidades/Skills:
 
-![Gus' GitHub stats](https://github-readme-stats.vercel.app/api?username=gus955&show_icons=true&theme=radical)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gus955&layout=donut)](https://github.com/gus955/github-readme-stats)
 
